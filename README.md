@@ -1,6 +1,8 @@
 
 ---
 
+https://huggingface.co/spaces/pavellakov/loan-amortization-dashboard
+
 
 # Loan Calculator Dashboard (Streamlit)
 
