@@ -1,7 +1,8 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://huggingface.co/spaces/pavellakov/loan-amortization-dashboard)
 
 ---
 
-https://huggingface.co/spaces/pavellakov/loan-amortization-dashboard
+
 
 
 # Loan Calculator Dashboard (Streamlit)
